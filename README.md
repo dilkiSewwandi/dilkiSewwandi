@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Springboot**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <h3 align="left"> ✉️ Connect with me : </h3> 
 <p align="left">
@@ -33,7 +32,7 @@
 
 
 
-### :fire: My Stats :
+### :fire: My Stats 🔥:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dilkiSewwandi&theme=radical)](https://git.io/streak-stats)
 
