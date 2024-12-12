@@ -1,8 +1,7 @@
 <h1> Hi there!   I'm Dilki! </h1> 
 <h2> A Computer Science Undergraduate at University of Colombo School of Computing </h3>
 
-- 🌱 I’m currently learning **Springboot**
-- 😄 Pronouns: she/her
+
 
 <h3 align="left"> ✉️ Connect with me : </h3> 
 <p align="left">
