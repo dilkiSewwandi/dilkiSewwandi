@@ -1,5 +1,5 @@
 <h1> Hi there! I'm Dilki! </h1>
-<h2> A Computer Science Undergraduate at University of Colombo School of Computing Sri Lanka</h2>
+<h2> A Computer Science Student at University of Colombo School of Computing, Sri Lanka</h2>
 
 
 <h3 align="left"> ✉️ Connect with me : </h3> 
