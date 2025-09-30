@@ -6,7 +6,7 @@
 <p align="left"> 
     <a href="mailto:dsewwandi2001@gmail.com" target="blank">
     <img align="center" src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" alt="Gmail" height="30" width="40">
-</a> <a href="https://linkedin.com/in/dilki-sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.instagram.com/dilki_zew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudo_chmod_711" height="30" width="40" /></a> </p>
+</a> <a href="https://linkedin.com/in/dilki-sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p>
 
 
 
